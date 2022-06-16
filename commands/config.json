@@ -1,8 +1,8 @@
 {
   
-  "TOKEN": "NzYxOTAwMDUyODEzMDUzOTUy.X3hUuA.FSdCqrJo2djEiWYzV3E06E89rpo",
+  "TOKEN": "",
   "PREFIX": "--",
-  "YOUTUBE_API_KEY": "AIzaSyDgJ8bdGi3gtQsdSxkDhd7FD3nquMuYvQg",
+  "YOUTUBE_API_KEY": "",
   "QUEUE_LIMIT": 0,
   "COLOR": "RANDOM"
 }
